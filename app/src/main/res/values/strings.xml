@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">K-ReciclerView</string>
+    <string name="Tittle">RECICLERVIEW</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="correo">Correo</string>
+    <string name="telefono">Telefono</string>
+    <string name="Date">Fecha</string>
+</resources>
